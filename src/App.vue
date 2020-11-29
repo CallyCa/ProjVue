@@ -53,7 +53,7 @@ a.router-link-exact-active {
   transition: all 0.3s;
 }
 
-.img {
+img {
   max-width: 100%;
 }
 

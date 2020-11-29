@@ -21,7 +21,7 @@
             </ul>
           </div>
         </div>
-        <img src="@/assets/aprender.png" /> alt="Aprenda Web Design">
+        <img src="@/assets/aprender.png" alt="Aprenda Web Design" />
       </div>
     </transition>
   </div>
